@@ -20,7 +20,7 @@ The future community marketplace for Concord Voice add-ons.
 
 ## Introduction
 
-Concord Voice is a privacy-first place to talk with your friends, your community, or your team. It gives you voice calls, video, screen sharing, and chat. Your device encrypts each message before it leaves, so our servers hold only scrambled data that we cannot read. You can use our hosted service, or you can run the same software on your own hardware.
+Concord Voice is a privacy-first place to talk with your friends, your community, or your team. It gives you voice calls, video, screen sharing, and chat. Your device encrypts each message before it leaves, so our servers store your messages only as scrambled data that we cannot read. You can use our hosted service, or you can run the same software on your own hardware.
 
 The Bazaar will be the place to find themes, sound packs, bots, and other add-ons for Concord Voice.
 Every add-on will be free to install, and creators can list a donation link.
