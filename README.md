@@ -10,6 +10,7 @@
 [![AI Code Assurance](https://sonarcloud.io/api/project_badges/ai_code_assurance?project=Concord-Voice_The-Bazaar)](https://sonarcloud.io/summary/new_code?id=Concord-Voice_The-Bazaar)
 [![status](https://img.shields.io/badge/status-placeholder-lightgrey)](#technical-overview)
 [![target](https://img.shields.io/badge/target-v1.1.0-blue)](#technical-overview)
+
 [![SonarQube Cloud](https://sonarcloud.io/images/project_badges/sonarcloud-dark.svg)](https://sonarcloud.io/summary/new_code?id=Concord-Voice_The-Bazaar)
 
 The future community marketplace for Concord Voice add-ons.
